@@ -1,6 +1,0 @@
-# Dependency directories
-node_modules
-
-# API keys
-.env*
-
