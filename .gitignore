@@ -1,8 +1,6 @@
 # Dependency directories
 node_modules
 
-# Logs
-*.log
 
 # API keys
 .env*
