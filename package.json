@@ -1,0 +1,10 @@
+{
+  "name": "code-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David <techstackermedia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "title-case": "^3.0.2"
+  }
+}
